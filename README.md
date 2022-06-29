@@ -2,7 +2,9 @@
 # Comparing Machine Learning Algorithms
 - It's important to define which algorithm gives better performance of the machine learning solutions, we need to narrow down on the best algorithms that suit both the data and the business requirements.
 
-- You can see my <a href="https://www.kaggle.com/code/alaasedeeq/object-oriented-programming-for-data-science">OOP implementation </a>
+- You can see:
+    - <a href="https://www.kaggle.com/code/alaasedeeq/object-oriented-programming-for-data-science">OOP implementation of the same project</a>
+    - <a href="https://www.kaggle.com/code/alaasedeeq/house-price-prediction-top-8">Kaggle Version of the same project</a>
 
 #
 ### <p style="background-color:skyblue; font-family:newtimeroman; font-size:200%; text-align:center; border-radius: 10px 100px;">Procedures:</p>
