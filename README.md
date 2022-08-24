@@ -68,9 +68,9 @@
     - MAE, MSE, and RMSE
   
 <p align="center">
-  <img width="48%" hight="200" src="data\images\tarin_test_mae.png">
-  <img width="48%" hight="200" src="data\images\tarin_test_mse.png">
-  <img width="48%" hight="200" src="data\images\tarin_test_rmse.png">
+  <img width="33%" hight="200" src="data\images\tarin_test_mae.png">
+  <img width="33%" hight="200" src="data\images\tarin_test_mse.png">
+  <img width="33%" hight="200" src="data\images\tarin_test_rmse.png">
 </p>
 
 
